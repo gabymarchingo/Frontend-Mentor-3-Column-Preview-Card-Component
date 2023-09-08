@@ -1,0 +1,90 @@
+.card-container {
+    background-color: hsl(0, 0%, 95%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    font-family: "Lexend Deca", serif;
+}
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.attribution {
+    display: block;
+}
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 12px;
+    margin: 35px 27px 35px 27px;
+    
+
+}
+h5 {
+    color: hsl(0, 0%, 95%) !important;
+    margin-top: 40px;
+    text-transform: uppercase;
+    line-height: 1.5;
+    font-family: "Lexend Deca", serif;
+    letter-spacing: -0.1rem;
+    margin-bottom: 30px !important;
+font-size: 27px !important;
+
+}
+
+.box-one {
+    background-color: hsl(31, 77%, 52%);
+    padding: 20px;
+    margin: 0;
+    /* min-width: 100px; */
+    padding-bottom: 44px;
+
+}
+.box-two {
+    background-color: hsl(184, 100%, 22%);
+    padding: 20px;
+    margin: 0;
+    padding-bottom: 44px;
+    /* min-width: 100px; */
+
+}
+.box-three {
+    background-color: hsl(179, 100%, 13%);
+    padding: 20px;
+    margin: 0;
+    /* min-width: 100px; */
+    padding-bottom: 44px;
+
+}
+.push {
+    margin-top: 20px;
+}
+.btn {
+    border-radius: 20px !important;
+    -moz-border-radius: 20px !important ;
+}
+.btn-one {
+color: hsl(31, 77%, 52%) !important;
+}
+.btn-two {
+    color: hsl(184, 100%, 22%)!important;
+
+}
+.btn-three {
+    color: hsl(179, 100%, 13%) !important;
+
+}
+img {
+    margin-bottom: 30px;
+}footer {
+    display: block;
+    ;
+}
+.attribution { 
+    font-size: 11px;  
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
